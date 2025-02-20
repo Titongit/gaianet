@@ -141,8 +141,8 @@ def run_bot(api_key: str):
 
 def main():
     print("\033[94mTitle: GaiaAI Chatbot")
-    print("Created by: Nasirul Islam\033[0m")
-    api_key = input("gaia-NDM3MWFjYjYtMjE4MS00OGQwLWEyYTYtMGUwYzQyMWU0NDAz-QJTpaqdpLBypfyvX: ")
+    print("Created by: Robiul Molla\033[0m")
+    api_key = input("enter your api key: ")
     run_bot(api_key)
 
 if __name__ == "__main__":
